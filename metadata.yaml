@@ -1,0 +1,35 @@
+_repo: In-the-Mist-of-the-Mountains_24509
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Macfarlane, J.
+    gutenberg_agent_id: '6648'
+    url: http://www.gutenberg.org/2009/agents/6648
+covers:
+- cover_type: archival
+  image_path: 24509-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Turner, Ethel Sybil
+    birthdate: 1870
+    deathdate: 1958
+    gutenberg_agent_id: '1561'
+    url: http://www.gutenberg.org/2009/agents/1561
+    wikipedia: http://en.wikipedia.org/wiki/Ethel_Turner
+description: ''
+gutenberg_issued: '2008-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24509'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mountains -- Juvenile fiction'
+- !lcsh 'Australia -- Juvenile fiction'
+- !lcc 'PR'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Country life -- Juvenile fiction'
+title: In the Mist of the Mountains
+url: http://www.gutenberg.org/ebooks/24509
